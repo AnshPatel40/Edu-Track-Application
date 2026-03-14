@@ -62,7 +62,7 @@ EduTrack follows a modular, three-layer architectural pattern ensuring separatio
 
 <br>
 <div align="center">
-  ![alt="EduTrack System Architecture Diagram"]
+  ![alt="EduTrack System Architecture Diagram"](Edu-Track System Architecture.png)
 </div>
 <br>
 
