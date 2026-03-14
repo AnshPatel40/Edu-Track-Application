@@ -100,3 +100,16 @@ EduTrack follows a modular, three-layer architectural pattern ensuring separatio
      SECRET_KEY=your_secure_key
 5. Run the Application
    - python -m streamlit run main_app.py
+
+
+## 🤝 Contributing
+We welcome contributions! If you have suggestions, bug reports, or improvements, please submit an issue or open a pull request.
+Please read our [CONTRIBUTING.md](CONTRIBUTING.md) guide for details on our code of conduct and the process for submitting contributions.
+
+---
+
+## ⚖️ License
+
+This project is licensed under the [MIT License](LICENSE.md).
+
+***
