@@ -60,10 +60,7 @@ EduTrack follows a modular, three-layer architectural pattern ensuring separatio
 
 - EduTrack utilizes a secure and scalable multi-tier architecture, ensuring separation of concerns and data integrity. The system flow, from user interaction to data storage and reporting, is visualized in the diagram below:
 
-<br>
-<div align="center">
-  ![alt="EduTrack System Architecture Diagram"](Edu-Track System Architecture.png)
-</div>
+![image alt](https://github.com/AnshPatel40/Edu-Track-Application/blob/0ec4209816715ca983e5356ae5302a9be36588d9/Edu-Track%20System%20Architecture.png)
 <br>
 
 **Key Architectural Flows:**
