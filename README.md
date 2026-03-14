@@ -58,13 +58,11 @@ EduTrack follows a modular, three-layer architectural pattern ensuring separatio
 2. **Application Layer:** Python backend services handling authentication, data processing, and analytics
 3. **Data Layer:** Cloud database storing institutions, users, datasets, and analytics results
 
-## 🏗️ System Architecture
-
-EduTrack utilizes a secure and scalable multi-tier architecture, ensuring separation of concerns and data integrity. The system flow, from user interaction to data storage and reporting, is visualized in the diagram below:
+- EduTrack utilizes a secure and scalable multi-tier architecture, ensuring separation of concerns and data integrity. The system flow, from user interaction to data storage and reporting, is visualized in the diagram below:
 
 <br>
 <div align="center">
-  <img src=""C:\Users\LENOVO\Downloads\Edu-Track System Architecture.png"" alt="EduTrack System Architecture Diagram" width="80%">
+  ![alt="EduTrack System Architecture Diagram"]
 </div>
 <br>
 
